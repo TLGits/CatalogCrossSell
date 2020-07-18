@@ -1,0 +1,38 @@
+,support,itemsets
+0,0.39355742296918766,frozenset({'Housewares Division'})
+1,1.0,frozenset({'Health Products Division'})
+2,0.13485394157663066,frozenset({'Automotive Division'})
+3,0.4673869547819128,frozenset({'Personal Electronics Division'})
+4,0.272108843537415,frozenset({'Garden Division'})
+5,0.22749099639855944,frozenset({'Novelty Gift Division'})
+6,0.3569427771108443,frozenset({'Jewelry Division'})
+7,0.39355742296918766,"frozenset({'Health Products Division', 'Housewares Division'})"
+8,0.23549419767907162,"frozenset({'Personal Electronics Division', 'Housewares Division'})"
+9,0.1328531412565026,"frozenset({'Housewares Division', 'Garden Division'})"
+10,0.13485394157663066,"frozenset({'Novelty Gift Division', 'Housewares Division'})"
+11,0.1948779511804722,"frozenset({'Jewelry Division', 'Housewares Division'})"
+12,0.13485394157663066,"frozenset({'Health Products Division', 'Automotive Division'})"
+13,0.4673869547819128,"frozenset({'Health Products Division', 'Personal Electronics Division'})"
+14,0.272108843537415,"frozenset({'Health Products Division', 'Garden Division'})"
+15,0.22749099639855944,"frozenset({'Health Products Division', 'Novelty Gift Division'})"
+16,0.3569427771108443,"frozenset({'Jewelry Division', 'Health Products Division'})"
+17,0.16326530612244897,"frozenset({'Personal Electronics Division', 'Garden Division'})"
+18,0.16906762705082032,"frozenset({'Novelty Gift Division', 'Personal Electronics Division'})"
+19,0.19747899159663865,"frozenset({'Jewelry Division', 'Personal Electronics Division'})"
+20,0.11224489795918367,"frozenset({'Novelty Gift Division', 'Garden Division'})"
+21,0.12725090036014405,"frozenset({'Jewelry Division', 'Garden Division'})"
+22,0.10724289715886355,"frozenset({'Jewelry Division', 'Novelty Gift Division'})"
+23,0.23549419767907162,"frozenset({'Health Products Division', 'Personal Electronics Division', 'Housewares Division'})"
+24,0.1328531412565026,"frozenset({'Health Products Division', 'Housewares Division', 'Garden Division'})"
+25,0.13485394157663066,"frozenset({'Health Products Division', 'Novelty Gift Division', 'Housewares Division'})"
+26,0.1948779511804722,"frozenset({'Jewelry Division', 'Health Products Division', 'Housewares Division'})"
+27,0.10784313725490197,"frozenset({'Novelty Gift Division', 'Personal Electronics Division', 'Housewares Division'})"
+28,0.13205282112845138,"frozenset({'Jewelry Division', 'Personal Electronics Division', 'Housewares Division'})"
+29,0.16326530612244897,"frozenset({'Health Products Division', 'Personal Electronics Division', 'Garden Division'})"
+30,0.16906762705082032,"frozenset({'Health Products Division', 'Novelty Gift Division', 'Personal Electronics Division'})"
+31,0.19747899159663865,"frozenset({'Jewelry Division', 'Health Products Division', 'Personal Electronics Division'})"
+32,0.11224489795918367,"frozenset({'Health Products Division', 'Novelty Gift Division', 'Garden Division'})"
+33,0.12725090036014405,"frozenset({'Jewelry Division', 'Health Products Division', 'Garden Division'})"
+34,0.10724289715886355,"frozenset({'Jewelry Division', 'Health Products Division', 'Novelty Gift Division'})"
+35,0.10784313725490197,"frozenset({'Health Products Division', 'Novelty Gift Division', 'Personal Electronics Division', 'Housewares Division'})"
+36,0.13205282112845138,"frozenset({'Jewelry Division', 'Health Products Division', 'Personal Electronics Division', 'Housewares Division'})"

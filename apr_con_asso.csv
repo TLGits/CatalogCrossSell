@@ -1,0 +1,25 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+0,frozenset({'Housewares Division'}),frozenset({'Health Products Division'}),0.39355742296918766,1.0,0.39355742296918766,1.0,1.0,0.0,inf
+1,frozenset({'Automotive Division'}),frozenset({'Health Products Division'}),0.13485394157663066,1.0,0.13485394157663066,1.0,1.0,0.0,inf
+2,frozenset({'Personal Electronics Division'}),frozenset({'Health Products Division'}),0.4673869547819128,1.0,0.4673869547819128,1.0,1.0,0.0,inf
+3,frozenset({'Garden Division'}),frozenset({'Health Products Division'}),0.272108843537415,1.0,0.272108843537415,1.0,1.0,0.0,inf
+4,frozenset({'Novelty Gift Division'}),frozenset({'Health Products Division'}),0.22749099639855944,1.0,0.22749099639855944,1.0,1.0,0.0,inf
+5,frozenset({'Jewelry Division'}),frozenset({'Health Products Division'}),0.3569427771108443,1.0,0.3569427771108443,1.0,1.0,0.0,inf
+6,frozenset({'Novelty Gift Division'}),frozenset({'Personal Electronics Division'}),0.22749099639855944,0.4673869547819128,0.16906762705082032,0.743183817062445,1.5900824990060358,0.06274130300379453,2.0739076452498804
+7,"frozenset({'Personal Electronics Division', 'Housewares Division'})",frozenset({'Health Products Division'}),0.23549419767907162,1.0,0.23549419767907162,1.0,1.0,0.0,inf
+8,"frozenset({'Housewares Division', 'Garden Division'})",frozenset({'Health Products Division'}),0.1328531412565026,1.0,0.1328531412565026,1.0,1.0,0.0,inf
+9,"frozenset({'Novelty Gift Division', 'Housewares Division'})",frozenset({'Health Products Division'}),0.13485394157663066,1.0,0.13485394157663066,1.0,1.0,0.0,inf
+10,"frozenset({'Jewelry Division', 'Housewares Division'})",frozenset({'Health Products Division'}),0.1948779511804722,1.0,0.1948779511804722,1.0,1.0,0.0,inf
+11,"frozenset({'Novelty Gift Division', 'Housewares Division'})",frozenset({'Personal Electronics Division'}),0.13485394157663066,0.4673869547819128,0.10784313725490197,0.7997032640949554,1.7110089528880938,0.044814164161062583,2.6591199442740048
+12,"frozenset({'Personal Electronics Division', 'Garden Division'})",frozenset({'Health Products Division'}),0.16326530612244897,1.0,0.16326530612244897,1.0,1.0,0.0,inf
+13,"frozenset({'Health Products Division', 'Novelty Gift Division'})",frozenset({'Personal Electronics Division'}),0.22749099639855944,0.4673869547819128,0.16906762705082032,0.743183817062445,1.5900824990060358,0.06274130300379453,2.0739076452498804
+14,"frozenset({'Novelty Gift Division', 'Personal Electronics Division'})",frozenset({'Health Products Division'}),0.16906762705082032,1.0,0.16906762705082032,1.0,1.0,0.0,inf
+15,frozenset({'Novelty Gift Division'}),"frozenset({'Health Products Division', 'Personal Electronics Division'})",0.22749099639855944,0.4673869547819128,0.16906762705082032,0.743183817062445,1.5900824990060358,0.06274130300379453,2.0739076452498804
+16,"frozenset({'Jewelry Division', 'Personal Electronics Division'})",frozenset({'Health Products Division'}),0.19747899159663865,1.0,0.19747899159663865,1.0,1.0,0.0,inf
+17,"frozenset({'Novelty Gift Division', 'Garden Division'})",frozenset({'Health Products Division'}),0.11224489795918367,1.0,0.11224489795918367,1.0,1.0,0.0,inf
+18,"frozenset({'Jewelry Division', 'Garden Division'})",frozenset({'Health Products Division'}),0.12725090036014405,1.0,0.12725090036014405,1.0,1.0,0.0,inf
+19,"frozenset({'Jewelry Division', 'Novelty Gift Division'})",frozenset({'Health Products Division'}),0.10724289715886355,1.0,0.10724289715886355,1.0,1.0,0.0,inf
+20,"frozenset({'Health Products Division', 'Novelty Gift Division', 'Housewares Division'})",frozenset({'Personal Electronics Division'}),0.13485394157663066,0.4673869547819128,0.10784313725490197,0.7997032640949554,1.7110089528880938,0.044814164161062583,2.6591199442740048
+21,"frozenset({'Novelty Gift Division', 'Personal Electronics Division', 'Housewares Division'})",frozenset({'Health Products Division'}),0.10784313725490197,1.0,0.10784313725490197,1.0,1.0,0.0,inf
+22,"frozenset({'Novelty Gift Division', 'Housewares Division'})","frozenset({'Health Products Division', 'Personal Electronics Division'})",0.13485394157663066,0.4673869547819128,0.10784313725490197,0.7997032640949554,1.7110089528880938,0.044814164161062583,2.6591199442740048
+23,"frozenset({'Jewelry Division', 'Personal Electronics Division', 'Housewares Division'})",frozenset({'Health Products Division'}),0.13205282112845138,1.0,0.13205282112845138,1.0,1.0,0.0,inf

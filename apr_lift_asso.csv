@@ -1,0 +1,55 @@
+,antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+0,frozenset({'Novelty Gift Division'}),frozenset({'Housewares Division'}),0.227490996,0.393557423,0.134853942,0.592788039,1.506230105,0.045323171,1.489255313
+1,frozenset({'Housewares Division'}),frozenset({'Novelty Gift Division'}),0.393557423,0.227490996,0.134853942,0.342653787,1.506230105,0.045323171,1.175193511
+2,frozenset({'Novelty Gift Division'}),frozenset({'Personal Electronics Division'}),0.227490996,0.467386955,0.169067627,0.743183817,1.590082499,0.062741303,2.073907645
+3,frozenset({'Personal Electronics Division'}),frozenset({'Novelty Gift Division'}),0.467386955,0.227490996,0.169067627,0.361729452,1.590082499,0.062741303,1.210315917
+4,frozenset({'Novelty Gift Division'}),frozenset({'Garden Division'}),0.227490996,0.272108844,0.112244898,0.493403694,1.813258575,0.050342586,1.436826814
+5,frozenset({'Garden Division'}),frozenset({'Novelty Gift Division'}),0.272108844,0.227490996,0.112244898,0.4125,1.813258575,0.050342586,1.314908942
+6,"frozenset({'Health Products Division', 'Novelty Gift Division'})",frozenset({'Housewares Division'}),0.227490996,0.393557423,0.134853942,0.592788039,1.506230105,0.045323171,1.489255313
+7,"frozenset({'Health Products Division', 'Housewares Division'})",frozenset({'Novelty Gift Division'}),0.393557423,0.227490996,0.134853942,0.342653787,1.506230105,0.045323171,1.175193511
+8,frozenset({'Novelty Gift Division'}),"frozenset({'Health Products Division', 'Housewares Division'})",0.227490996,0.393557423,0.134853942,0.592788039,1.506230105,0.045323171,1.489255313
+9,frozenset({'Housewares Division'}),"frozenset({'Health Products Division', 'Novelty Gift Division'})",0.393557423,0.227490996,0.134853942,0.342653787,1.506230105,0.045323171,1.175193511
+10,"frozenset({'Novelty Gift Division', 'Personal Electronics Division'})",frozenset({'Housewares Division'}),0.169067627,0.393557423,0.107843137,0.637869822,1.620779549,0.041305318,1.674653522
+11,"frozenset({'Novelty Gift Division', 'Housewares Division'})",frozenset({'Personal Electronics Division'}),0.134853942,0.467386955,0.107843137,0.799703264,1.711008953,0.044814164,2.659119944
+12,"frozenset({'Personal Electronics Division', 'Housewares Division'})",frozenset({'Novelty Gift Division'}),0.235494198,0.227490996,0.107843137,0.457943925,2.013019999,0.054270328,1.42514592
+13,frozenset({'Novelty Gift Division'}),"frozenset({'Personal Electronics Division', 'Housewares Division'})",0.227490996,0.235494198,0.107843137,0.474054529,2.013019999,0.054270328,1.453583775
+14,frozenset({'Personal Electronics Division'}),"frozenset({'Novelty Gift Division', 'Housewares Division'})",0.467386955,0.134853942,0.107843137,0.230736301,1.711008953,0.044814164,1.124641732
+15,frozenset({'Housewares Division'}),"frozenset({'Novelty Gift Division', 'Personal Electronics Division'})",0.393557423,0.169067627,0.107843137,0.274021352,1.620779549,0.041305318,1.144568612
+16,"frozenset({'Jewelry Division', 'Personal Electronics Division'})",frozenset({'Housewares Division'}),0.197478992,0.393557423,0.132052821,0.668693009,1.699098963,0.054333498,1.830455118
+17,"frozenset({'Jewelry Division', 'Housewares Division'})",frozenset({'Personal Electronics Division'}),0.194877951,0.467386955,0.132052821,0.67761807,1.44980099,0.040969409,1.652118172
+18,"frozenset({'Personal Electronics Division', 'Housewares Division'})",frozenset({'Jewelry Division'}),0.235494198,0.356942777,0.132052821,0.560747664,1.570973555,0.047994868,1.463981337
+19,frozenset({'Jewelry Division'}),"frozenset({'Personal Electronics Division', 'Housewares Division'})",0.356942777,0.235494198,0.132052821,0.369955157,1.570973555,0.047994868,1.213414903
+20,frozenset({'Personal Electronics Division'}),"frozenset({'Jewelry Division', 'Housewares Division'})",0.467386955,0.194877951,0.132052821,0.282534247,1.44980099,0.040969409,1.122174884
+21,frozenset({'Housewares Division'}),"frozenset({'Jewelry Division', 'Personal Electronics Division'})",0.393557423,0.197478992,0.132052821,0.33553635,1.699098963,0.054333498,1.207772627
+22,"frozenset({'Health Products Division', 'Novelty Gift Division'})",frozenset({'Personal Electronics Division'}),0.227490996,0.467386955,0.169067627,0.743183817,1.590082499,0.062741303,2.073907645
+23,"frozenset({'Health Products Division', 'Personal Electronics Division'})",frozenset({'Novelty Gift Division'}),0.467386955,0.227490996,0.169067627,0.361729452,1.590082499,0.062741303,1.210315917
+24,frozenset({'Novelty Gift Division'}),"frozenset({'Health Products Division', 'Personal Electronics Division'})",0.227490996,0.467386955,0.169067627,0.743183817,1.590082499,0.062741303,2.073907645
+25,frozenset({'Personal Electronics Division'}),"frozenset({'Health Products Division', 'Novelty Gift Division'})",0.467386955,0.227490996,0.169067627,0.361729452,1.590082499,0.062741303,1.210315917
+26,"frozenset({'Health Products Division', 'Novelty Gift Division'})",frozenset({'Garden Division'}),0.227490996,0.272108844,0.112244898,0.493403694,1.813258575,0.050342586,1.436826814
+27,"frozenset({'Health Products Division', 'Garden Division'})",frozenset({'Novelty Gift Division'}),0.272108844,0.227490996,0.112244898,0.4125,1.813258575,0.050342586,1.314908942
+28,frozenset({'Novelty Gift Division'}),"frozenset({'Health Products Division', 'Garden Division'})",0.227490996,0.272108844,0.112244898,0.493403694,1.813258575,0.050342586,1.436826814
+29,frozenset({'Garden Division'}),"frozenset({'Health Products Division', 'Novelty Gift Division'})",0.272108844,0.227490996,0.112244898,0.4125,1.813258575,0.050342586,1.314908942
+30,"frozenset({'Health Products Division', 'Novelty Gift Division', 'Personal Electronics Division'})",frozenset({'Housewares Division'}),0.169067627,0.393557423,0.107843137,0.637869822,1.620779549,0.041305318,1.674653522
+31,"frozenset({'Health Products Division', 'Novelty Gift Division', 'Housewares Division'})",frozenset({'Personal Electronics Division'}),0.134853942,0.467386955,0.107843137,0.799703264,1.711008953,0.044814164,2.659119944
+32,"frozenset({'Health Products Division', 'Personal Electronics Division', 'Housewares Division'})",frozenset({'Novelty Gift Division'}),0.235494198,0.227490996,0.107843137,0.457943925,2.013019999,0.054270328,1.42514592
+33,"frozenset({'Health Products Division', 'Novelty Gift Division'})","frozenset({'Personal Electronics Division', 'Housewares Division'})",0.227490996,0.235494198,0.107843137,0.474054529,2.013019999,0.054270328,1.453583775
+34,"frozenset({'Health Products Division', 'Personal Electronics Division'})","frozenset({'Novelty Gift Division', 'Housewares Division'})",0.467386955,0.134853942,0.107843137,0.230736301,1.711008953,0.044814164,1.124641732
+35,"frozenset({'Health Products Division', 'Housewares Division'})","frozenset({'Novelty Gift Division', 'Personal Electronics Division'})",0.393557423,0.169067627,0.107843137,0.274021352,1.620779549,0.041305318,1.144568612
+36,"frozenset({'Novelty Gift Division', 'Personal Electronics Division'})","frozenset({'Health Products Division', 'Housewares Division'})",0.169067627,0.393557423,0.107843137,0.637869822,1.620779549,0.041305318,1.674653522
+37,"frozenset({'Novelty Gift Division', 'Housewares Division'})","frozenset({'Health Products Division', 'Personal Electronics Division'})",0.134853942,0.467386955,0.107843137,0.799703264,1.711008953,0.044814164,2.659119944
+38,"frozenset({'Personal Electronics Division', 'Housewares Division'})","frozenset({'Health Products Division', 'Novelty Gift Division'})",0.235494198,0.227490996,0.107843137,0.457943925,2.013019999,0.054270328,1.42514592
+39,frozenset({'Novelty Gift Division'}),"frozenset({'Health Products Division', 'Personal Electronics Division', 'Housewares Division'})",0.227490996,0.235494198,0.107843137,0.474054529,2.013019999,0.054270328,1.453583775
+40,frozenset({'Personal Electronics Division'}),"frozenset({'Health Products Division', 'Novelty Gift Division', 'Housewares Division'})",0.467386955,0.134853942,0.107843137,0.230736301,1.711008953,0.044814164,1.124641732
+41,frozenset({'Housewares Division'}),"frozenset({'Health Products Division', 'Novelty Gift Division', 'Personal Electronics Division'})",0.393557423,0.169067627,0.107843137,0.274021352,1.620779549,0.041305318,1.144568612
+42,"frozenset({'Jewelry Division', 'Health Products Division', 'Personal Electronics Division'})",frozenset({'Housewares Division'}),0.197478992,0.393557423,0.132052821,0.668693009,1.699098963,0.054333498,1.830455118
+43,"frozenset({'Jewelry Division', 'Health Products Division', 'Housewares Division'})",frozenset({'Personal Electronics Division'}),0.194877951,0.467386955,0.132052821,0.67761807,1.44980099,0.040969409,1.652118172
+44,"frozenset({'Health Products Division', 'Personal Electronics Division', 'Housewares Division'})",frozenset({'Jewelry Division'}),0.235494198,0.356942777,0.132052821,0.560747664,1.570973555,0.047994868,1.463981337
+45,"frozenset({'Jewelry Division', 'Health Products Division'})","frozenset({'Personal Electronics Division', 'Housewares Division'})",0.356942777,0.235494198,0.132052821,0.369955157,1.570973555,0.047994868,1.213414903
+46,"frozenset({'Jewelry Division', 'Personal Electronics Division'})","frozenset({'Health Products Division', 'Housewares Division'})",0.197478992,0.393557423,0.132052821,0.668693009,1.699098963,0.054333498,1.830455118
+47,"frozenset({'Jewelry Division', 'Housewares Division'})","frozenset({'Health Products Division', 'Personal Electronics Division'})",0.194877951,0.467386955,0.132052821,0.67761807,1.44980099,0.040969409,1.652118172
+48,"frozenset({'Health Products Division', 'Personal Electronics Division'})","frozenset({'Jewelry Division', 'Housewares Division'})",0.467386955,0.194877951,0.132052821,0.282534247,1.44980099,0.040969409,1.122174884
+49,"frozenset({'Health Products Division', 'Housewares Division'})","frozenset({'Jewelry Division', 'Personal Electronics Division'})",0.393557423,0.197478992,0.132052821,0.33553635,1.699098963,0.054333498,1.207772627
+50,"frozenset({'Personal Electronics Division', 'Housewares Division'})","frozenset({'Jewelry Division', 'Health Products Division'})",0.235494198,0.356942777,0.132052821,0.560747664,1.570973555,0.047994868,1.463981337
+51,frozenset({'Jewelry Division'}),"frozenset({'Health Products Division', 'Personal Electronics Division', 'Housewares Division'})",0.356942777,0.235494198,0.132052821,0.369955157,1.570973555,0.047994868,1.213414903
+52,frozenset({'Personal Electronics Division'}),"frozenset({'Jewelry Division', 'Health Products Division', 'Housewares Division'})",0.467386955,0.194877951,0.132052821,0.282534247,1.44980099,0.040969409,1.122174884
+53,frozenset({'Housewares Division'}),"frozenset({'Jewelry Division', 'Health Products Division', 'Personal Electronics Division'})",0.393557423,0.197478992,0.132052821,0.33553635,1.699098963,0.054333498,1.207772627
